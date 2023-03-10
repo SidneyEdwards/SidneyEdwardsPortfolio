@@ -1,6 +1,7 @@
 # SidneyEdwardsPortfolio
 
-<img src="portfolioReadMePic" alt="Picture of Portfolio Page">
+
+![portfolioReadMePic](https://user-images.githubusercontent.com/124628764/224216060-7f6943a2-56cd-45f6-874d-cfad70a690a3.png)
 
 
 #This Portfolio webpage is a landing site for potential employers to view recent web development projects. 
